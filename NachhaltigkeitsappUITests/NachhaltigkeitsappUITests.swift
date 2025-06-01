@@ -1,9 +1,3 @@
-//
-//  NachhaltigkeitsappUITests.swift
-//  NachhaltigkeitsappUITests
-//
-//  Created by Manuel on 21.04.25.
-//
 
 import XCTest
 
